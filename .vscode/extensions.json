@@ -1,9 +1,0 @@
-{
-    "recommendations": [
-        "davidanson.vscode-markdownlint",
-        "editorconfig.editorconfig",
-        "foxundermoon.shell-format",
-        "timonwong.shellcheck",
-        "yzhang.markdown-all-in-one"
-    ]
-}
